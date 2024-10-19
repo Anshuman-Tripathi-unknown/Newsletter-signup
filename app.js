@@ -2,7 +2,7 @@
 const client = require("@mailchimp/mailchimp_marketing");
 
 client.setConfig({
-  apiKey: "3439c3509babf4cb099e87390adb33c3-us12",
+  apiKey: "74f089aa85b193b29daa3446528dda98-us12",
   server: "us12",
 });
 
